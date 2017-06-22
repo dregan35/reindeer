@@ -8,7 +8,7 @@ let santaString = "";
 var hohohoElement = document.getElementById("reindeer");
 
 
-// created empty string to hold the values of the array(reindeers + colors)
+// created empty string to hold the values of the arrays(reindeers + colors)
 
 
 // the for loop to start with the first words in each array and loop I just need to figure out how to print them out to the <div> "reindeer"

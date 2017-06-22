@@ -7,7 +7,7 @@ These commands are a helpful quick start. You may choose to ignore them complete
 mkdir -p ~/workspace/exercises/the-static-web/reindeer && cd $_
 touch index.html
 touch reindeer.js
-Requirements
+Requirement
 
 Paste the following code into the <body> of the HTML file.
 
